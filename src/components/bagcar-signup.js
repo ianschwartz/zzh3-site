@@ -3,7 +3,7 @@ import React from 'react';
 const BagCarSignup = (props) => {
   return (
     <div>
-      <form action="https://formspree.io/hankpiece@gmai.com"
+      <form action="https://formspree.io/hankpiece@gmail.com"
             method="POST">
         <label>Name</label><br />
         <input type="text" name="name" /><br />
